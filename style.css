@@ -1,0 +1,52 @@
+ul{
+display: flex;
+gap: 30px;
+justify-content: center;
+list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+   
+}
+.started{
+    background-color: #e03a3c;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+ 
+}
+.started a{
+    color: white;
+    height: 20px;
+   
+   
+   
+}
+.logo{
+    margin-left: 85px;
+    margin-top: 15px;
+}
+/* *{border: 1px solid red;} */
+.image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    background-position: center;
+    background-color: black;
+    position: relative;
+    
+    
+    
+}
+
+    
